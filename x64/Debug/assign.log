@@ -1,0 +1,9 @@
+﻿  CustomerOrder.cpp
+  LineManager.cpp
+C:\C++\semester 3\assign\assign\LineManager.cpp(64,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Station.cpp
+  Utilities.cpp
+  Workstation.cpp
+  ms3.cpp
+  Generating Code...
+  assign.vcxproj -> C:\C++\semester 3\assign\x64\Debug\assign.exe

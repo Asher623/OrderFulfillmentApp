@@ -1,0 +1,9 @@
+Name: Ivan Anferov Id:130909195
+
+The assignment of the oop345 course is the final project that conclude all the subject I have taught during this course. 
+It unites almost every topic in a sophisticated and beautiful structured application. The fact that all modules finally work with each
+ other seems like something unreal, because just imagine that all those functions, variables and inheritances could be connected this way 
+was almost impossible in the beginning of this assignment. The main challenge I faced was with the milestone 3 because it requires to use 
+advanced level of c++ language and connect correctly all created variables and method in one program. Especially was hard to understand the 
+requirements for this milestone because the wording sometimes is very confusing and some parts that have to be included in code to work are 
+missing in description. But overall, it was very interesting to be able to challenge myself with this assignment.  
